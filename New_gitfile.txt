@@ -3,3 +3,4 @@ Adding a new line to the file
 Adding line from master branch after the branch update
 Adding the lines from the branch
 got the file to the branch dir
+finding the diff command
