@@ -1,0 +1,1 @@
+This is a new git text file  created locally on host computer:
